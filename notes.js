@@ -1,1 +1,2 @@
-//save for sql query practice
+NOTE//save for sql query practice
+
